@@ -1,0 +1,9 @@
+# Ignore compiled Java classes
+**/*.class
+
+# Ignore build directory
+build/
+dist/
+
+# Ignore NetBeans project files
+nbproject/private/
