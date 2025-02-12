@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/src/java/in/gadgethub/dao/impl/OrderDaoImpl.java</file>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/src/java/in/gadgethub/listener/DBConnectionListener.java</file>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/src/java/in/gadgethub/dao/impl/CartDaoImpl.java</file>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/web/WEB-INF/web.xml</file>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/src/java/in/gadgethub/utillity/DBUtil.java</file>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/src/java/in/gadgethub/utillity/IDUtil.java</file>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/src/java/in/gadgethub/servlet/OrderServlet.java</file>
+            <file>file:/D:/WebApplication2/GadgetHub_MySQL/src/java/in/gadgethub/dao/impl/TransactionDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
